@@ -1,0 +1,18 @@
+{
+  "name": "new-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Liber Menna",
+  "license": "ISC",
+  "dependencies": {
+    "await-exec": "^0.1.2",
+    "inquirer": "^7.3.3"
+  },
+  "bin": {
+    "new-project": "./index.js"
+  }
+}
